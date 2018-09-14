@@ -19,7 +19,6 @@
     "no-consecutive-blank-lines": true,
     "no-unnecessary-callback-wrapper": true,
     "one-line": true,
-    "ordered-imports": true,
     "semicolon": true,
     "space-within-parens": true,
     "prefer-object-spread": true,
